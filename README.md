@@ -8,10 +8,10 @@ Berikut Beberapa Aplikasi Yang Saya Modifikasi:
 6. NewPipe
 7. SmartTube
 
-[Klik Disini](https://github.com/Perverted-Nobleman/Extended) Untuk Mendownload Salah Satu Aplikasi Diatas.
+[Klik Disini](https://github.com/Ezqlusia/Extended) Untuk Mendownload Salah Satu Aplikasi Diatas.
 
 ━━━━━━━━━━━━━━━━━━━
 Berikut Aplikasi Untuk Tunneling :
 - FireBox
 
-[Klik Disini](https://github.com/Perverted-Nobleman/FireBox) Untuk Mendownload FireBox 
+[Klik Disini](https://github.com/Ezqlusia/FireBox/releases) Untuk Mendownload FireBox 
