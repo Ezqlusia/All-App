@@ -14,4 +14,4 @@ Berikut Beberapa Aplikasi Yang Saya Modifikasi:
 Berikut Aplikasi Untuk Tunneling :
 - FireBox
 
-[Klik Disini](https://github.com/Ezqlusia/FireBox/releases) Untuk Mendownload FireBox 
+[Klik Disini](https://github.com/Ezqlusia/FireBox) Untuk Mendownload FireBox 
